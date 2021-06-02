@@ -36,7 +36,7 @@ tensorboard==1.15.0
 tensorflow
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.16.1
 wrapt==1.11.2
 youtube-dl==2020.1.24
